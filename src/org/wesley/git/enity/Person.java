@@ -4,4 +4,7 @@ public class Person {
 
     boolean gender;
 
+
+    int age;
+
 }
